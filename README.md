@@ -1,6 +1,6 @@
 # DISCLAMER: THIS SOFTWARE IS SUPPOSED TO BE USED AS AN AUXILIARY ART TOOL FOR CONTENT CREATORS. IT'S NOT INTENDED TO BELITTLE, OFFEND, ETC ANY INDIVIDUAL, RACE, NATIONALITY, ETC.
 
-# [UPDATES](#updates)
+# [UPDATES](#updates-mix-layers)
 
 Being fascinated by neural networks, I naturally dug into insides and found some interesting things.   
 
@@ -27,7 +27,7 @@ If you want more control, I have you covered. In [tweaking notebook](https://col
 ![Harold styles](https://raw.githubusercontent.com/dobrosketchkun/latent_space_adventures/main/files/harold_styles.jpg)
 
 
-## updates
+## updates mix layers 
 
 You can also mix layers of two neural networks to get some interesting results ([layermix notebook](https://colab.research.google.com/github/dobrosketchkun/latent_space_adventures/blob/main/files/Layer_mixing_styleGAN2_ada_pytorch.ipynb)):   
 
